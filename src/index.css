@@ -1,0 +1,74 @@
+@font-face {
+    font-family: PixelTandysoft-0rJG;
+    src: url(./PixelTandysoft-0rJG.ttf);
+}
+
+@font-face {
+    font-family: pix;
+    src:url(./pix.otf);
+}
+
+
+body {
+    margin:0;
+}
+
+.nameTitle {
+    font-family: PixelTandysoft-0rJG;
+    display:block;
+    position: absolute;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 50%;
+    color:orange;
+    padding: 5px;
+    text-align: center;
+}
+
+h1 {
+    font-family: pix;
+    font-size:3em;
+}
+
+ul {
+    display:contents;
+    margin-right: 30%;
+    width:100%;
+    margin-right: 40px;
+    
+}
+
+li {
+    text-align: center;
+    list-style: none;
+
+
+}
+
+li:hover {
+    color: green;
+    box-shadow: 2px 2px 2px 2px rgb(15, 131, 11);
+
+    
+}
+
+.model {
+    position: relative;
+
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    box-shadow: 12px 8px 40px 2px rgb(142, 218, 218);
+}
+
+a { 
+    text-decoration: none;
+    color: inherit;
+    margin: 0%;
+ }

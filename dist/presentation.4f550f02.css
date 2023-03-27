@@ -1,0 +1,43 @@
+@font-face {
+  font-family: PixelTandysoft-0rJG;
+  src: url("PixelTandysoft-0rJG.fe465147.ttf");
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+p {
+  width: 50%;
+  color: #d88417;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 23%;
+  margin-right: auto;
+  padding: 5px;
+  font-family: PixelTandysoft-0rJG;
+}
+
+img {
+  width: 210px;
+  border-radius: 50%;
+  margin-bottom: 30%;
+  margin-left: 75%;
+  box-shadow: 2px 2px 20px 2px #0f830b;
+}
+
+a {
+  color: green;
+}
+
+.modelcube {
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.test {
+  position: absolute;
+}
+
+/*# sourceMappingURL=presentation.4f550f02.css.map */

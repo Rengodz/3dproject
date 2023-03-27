@@ -1,0 +1,68 @@
+@font-face {
+  font-family: PixelTandysoft-0rJG;
+  src: url("PixelTandysoft-0rJG.fe465147.ttf");
+}
+
+@font-face {
+  font-family: pix;
+  src: url("pix.507a0490.otf");
+}
+
+body {
+  margin: 0;
+}
+
+.nameTitle {
+  width: 50%;
+  color: orange;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: auto;
+  padding: 5px;
+  font-family: PixelTandysoft-0rJG;
+  display: block;
+  position: absolute;
+}
+
+h1 {
+  font-family: pix;
+  font-size: 3em;
+}
+
+ul {
+  width: 100%;
+  margin-right: 40px;
+  display: contents;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+}
+
+li:hover {
+  color: green;
+  box-shadow: 2px 2px 2px 2px #0f830b;
+}
+
+.model {
+  position: relative;
+}
+
+hr {
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+  display: block;
+  box-shadow: 12px 8px 40px 2px #8edada;
+}
+
+a {
+  color: inherit;
+  margin: 0%;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=index.61d3354a.css.map */
